@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Formula13a {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {// comment
 		double a;
 		double b;
 		double c;
